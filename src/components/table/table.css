@@ -1,0 +1,14 @@
+.otable th{
+    padding: 20px;
+    
+    width: 120px;
+    height:20px  
+}
+.itable td {
+    
+    border-spacing: 40px;
+    padding: 20px;
+    width: 120px;
+    height:20px  ;
+    text-align: left;
+}

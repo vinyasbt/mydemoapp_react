@@ -1,0 +1,29 @@
+.contactm{
+    display: inline-block;
+    width: 300px;
+    background-color: lightcyan;
+    border:2px solid black;
+    color: blue;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+}
+.contactf{
+    display: inline-block;
+    width: 300px;
+    background-color: lightcyan;
+    border:2px solid black;
+    color:brown;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+}
+.show{
+    display: block;
+}
+.hide{
+    display: none;
+}
+.linethrough{
+    text-decoration: line-through;
+}
